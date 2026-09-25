@@ -1,0 +1,17 @@
+{
+  "name": "vue-vite-static-demo",
+  "version": "1.0.0",
+  "description": "Demo: Vue 3 + Vite static site for ServerAutomation",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.31"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.4"
+  }
+}
