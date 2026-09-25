@@ -43,7 +43,7 @@ export default function App() {
         </p>
 
         <button
-          onClick={() => setCount((c) => c + 2)}
+          onClick={() => setCount((c) => c + 3)}
           style={{
             background: '#ffffff',
             color: '#000000',
